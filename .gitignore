@@ -1,4 +1,5 @@
 
 *.log
 *.pyc
-*.txt*.hlt
+*.txt
+*.hlt
